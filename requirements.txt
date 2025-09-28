@@ -1,0 +1,24 @@
+numpy
+pandas
+scikit-learn
+matplotlib
+seaborn
+jupyter
+
+# Security/Privacy related
+
+cryptography
+pycryptodome
+pyjwt
+opacus        # Differential privacy with PyTorch
+tensorflow-privacy
+pydantic      # Data validation & sanitization
+presidio-analyzer
+presidio-anonymizer
+
+# Web/Experimentation
+
+flask
+fastapi
+uvicorn
+requests
